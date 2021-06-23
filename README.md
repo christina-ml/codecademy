@@ -95,6 +95,11 @@ Start the program and display the results.
 * Arrow functions
 * Functions with single parameters
 * Function .toLowerCase()
+* Return statement
 * If/Else statements
 * Switch statements
 * Calling functions
+
+#### Note: There is a secret cheat code!
+
+If the user types 'bomb' as their choice, they win, no matter what.
