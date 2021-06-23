@@ -1,15 +1,4 @@
-// define variables
-// const rock = 'rock';
-// const paper = 'paper';
-// const scissors = 'scissors';
-
-/*
-use arrow function syntax, to create a function that takes a single parameter
-*/
 const getUserChoice = userInput => {
-  /*
-  A user passes in a paramater - so make all user input lowercase
-  */
   userInput = userInput.toLowerCase();
 
   // if..else statement for rock, paper, OR scissors
