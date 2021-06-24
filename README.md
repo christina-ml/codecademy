@@ -13,6 +13,7 @@ Projects done on Codecademy.
 
 #### Functions
 5. [Rock, Paper, or Scissors](#rock-paper-scissors)
+6. [Sleep Debt Calculator](#sleep-debt-calculator)
 
 
 ## Kelvin Weather
@@ -103,3 +104,21 @@ Start the program and display the results.
 #### Note: There is a secret cheat code!
 
 If the user types 'bomb' as their choice, they win, no matter what.
+
+
+## Sleep Debt Calculator
+
+Did you know that [giraffes sleep 4.6 hours a day](https://en.wikipedia.org/wiki/Giraffe#Legs,_locomotion_and_posture)? We humans need more than that. If we don’t sleep enough, we accumulate sleep debt. In this project we’ll calculate if you’re getting enough sleep each week using a sleep debt calculator.
+
+The program will determine the actual and ideal hours of sleep for each night of the last week.
+
+Finally, it will calculate, in hours, how far you are from your weekly sleep goal.
+
+* Arrow functions
+* Concise body form function
+* If/Else or Switch statements (2 options for coding this part)
+* Functions without parameters
+* Creating variables 'const'
+* Interpolate the math inside the string passed to console.log() to print.
+* Calling functions, testing functions
+
