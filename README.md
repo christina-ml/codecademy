@@ -15,6 +15,8 @@ Projects done on Codecademy.
 5. [Rock, Paper, or Scissors](#rock-paper-scissors)
 6. [Sleep Debt Calculator](#sleep-debt-calculator)
 
+#### Scope
+7. [Training Days](#training-days)
 
 ## Kelvin Weather
 
@@ -122,3 +124,13 @@ Finally, it will calculate, in hours, how far you are from your weekly sleep goa
 * Interpolate the math inside the string passed to console.log() to print.
 * Calling functions, testing functions
 
+
+## Training Days
+
+As a seasoned athlete, one of your favorite activities is running marathons. You use a service called Training Days that sends you a message for the event you signed up for and the days you have left to train.
+
+Since you also code, Training Days has asked you to help them solve a problem: The program currently uses the wrong scope for its variables. They know this can be troublesome as their service evolves. In this project you will make Training Days more maintainable and less error-prone by fixing variable scopes.
+
+* global scope
+* local scope
+* block scope
