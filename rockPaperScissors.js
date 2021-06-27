@@ -120,16 +120,3 @@ change this variable to change the user's choice. Try secret cheat code: 'bomb' 
 // call function
 playGame();
 
-
-  // if not a tie, determine a winner
-  // if userChoice is rock
-  if (userChoice === 'rock') {
-    if (computerChoice === 'paper') {
-      return 'The computer won!';
-    } else {
-      return 'You won!';
-    }
-  }
-
-
-Jose likes to run
