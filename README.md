@@ -18,6 +18,9 @@ Projects done on Codecademy.
 #### Scope
 7. [Training Days](#training-days)
 
+#### Arrays
+8. [Secret Message](#secret-essage)
+
 ## Kelvin Weather
 
 Learning about temperature conversion between Fahrenheit, Celsius, Kelvin, and Newton!
@@ -134,3 +137,15 @@ Since you also code, Training Days has asked you to help them solve a problem: T
 * global scope
 * local scope
 * block scope
+
+
+## Secret Message
+
+Using array methods, you will transform an array of strings into a secret message!
+
+* .pop(), .push()
+* .shift(), .unshift()
+* .length
+* Replacing an array element
+* .splice()
+* .join()
