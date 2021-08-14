@@ -19,7 +19,10 @@ Projects done on Codecademy.
 7. [Training Days](#training-days)
 
 #### Arrays
-8. [Secret Message](#secret-essage)
+8. [Secret Message](#secret-message)
+
+#### Loops
+9. [Whale Talk](#whale-talk)
 
 ## Kelvin Weather
 
@@ -149,3 +152,25 @@ Using array methods, you will transform an array of strings into a secret messag
 * Replacing an array element
 * .splice()
 * .join()
+
+
+## Whale Talk
+
+Take a phrase like ‘turpentine and turtles’ and translate it into its “whale talk” equivalent: ‘UUEEIEEAUUEE’.
+
+There are a few simple rules for translating text to whale language:
+
+There are no consonants. Only vowels excluding “y”.
+The u‘s and e‘s are extra long, so we must double them in our program.
+Once we have converted text to the whale language, the result is sung slowly, as is a custom in the ocean.
+
+To accomplish this translation, we can use our knowledge of loops.
+
+* input (string)
+* resultArray (empty array)
+* for loop, using conditional for for loop
+* .push()
+* || operator to check for multiple conditions in an 'if' statement
+* resultArray (log the array with items pushed to it, to console)
+* .join('') method
+* .toUpperCase() function
