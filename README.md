@@ -24,6 +24,9 @@ Projects done on Codecademy.
 #### Loops
 9. [Whale Talk](#whale-talk)
 
+#### Iterators
+10. [Mini Linter](#mini-linter)
+
 ## Kelvin Weather
 
 Learning about temperature conversion between Fahrenheit, Celsius, Kelvin, and Newton!
@@ -174,3 +177,18 @@ To accomplish this translation, we can use our knowledge of loops.
 * resultArray (log the array with items pushed to it, to console)
 * .join('') method
 * .toUpperCase() function
+
+## Mini Linter
+
+In this project, you will use what you know about iterating over arrays to improve the quality of a paragraph and gather some information about that paragraph.
+
+This is the same type of work that word processing software does. Additionally, you may have heard of linting, a process by which text is evaluated and improved by an application. In this project, you will create a miniature version of a linter using array methods that you have learned.
+
+* .split()
+* .join()
+* .filter()
+* .includes()
+* .forEach()
+* .length
+* Arrow functions
+* Creating variables
